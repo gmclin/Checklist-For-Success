@@ -112,8 +112,8 @@ input {
 <body>
 
 <div id="myDIV" class="header">
-  <h2 style="margin:5px">Cleveland Codes Applicant To Do List</h2>
-  <input type="text" id="myInput" placeholder="Add a task...">
+  <h2 style="margin:5px">Gina's To Do List</h2>
+  <input type="text" id="myInput" placeholder="Gina's tasks">
   <span onclick="newElement()" class="addBtn">Add</span>
 </div>
 
